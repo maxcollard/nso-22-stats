@@ -1,5 +1,5 @@
-# nso-21-stats
-Statistics material for the 2021 UCSF Neuroscience Orientation
+# nso-22-stats
+Statistics material for the 2022 UCSF Neuroscience Orientation
 
 ## Using the slideshow functionality
 The slideshows for the attached Jupyter notebooks use RISE. You can install RISE with Conda:
